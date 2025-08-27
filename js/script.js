@@ -5,7 +5,7 @@ const products = [
     { id: 3, name: '拼圖', price: 1, img: 'src/icon.png', desc: '等待拼起來的那一刻' },
     { id: 4, name: '基因序列', price: 1, img: 'src/icon.png', desc: '就是基因序列' },
     { id: 5, name: '史詩樂章', price: 1, img: 'src/icon.png', desc: '三段知名樂曲組成' },
-    { id: 6, name: '文字謎', price: 1, img: 'src/icon.png', desc: '高速隨身碟' },
+    { id: 6, name: '文字謎', price: 1, img: 'src/icon.png', desc: '有關某樂曲的文章' },
     { id: 7, name: '哉物報', price: 1, img: 'src/icon.png', desc: '紀錄大小事' },
     { id: 8, name: '藥水材料數個', price: 1, img: 'src/icon.png', desc: '神秘稀缺的藥材' },
     { id: 9, name: '計算紙', price: 1, img: 'src/icon.png', desc: '很多惱人的公式' },
